@@ -1,0 +1,7 @@
+# Theme Configuration File
+
+name: "Flow Host"
+description: "Template provided by WHMCSThemes.com"
+author: "Zumada Limited"
+properties:
+  serverSidePagination: false # Defines client side will handle pagination
